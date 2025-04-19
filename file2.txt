@@ -3,3 +3,4 @@ diff
 this is the modification done on branch
 second line added as part of the branch
 remote merge demo
+i wwan see merge confict
