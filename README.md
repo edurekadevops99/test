@@ -4,3 +4,4 @@ demo squash3
 
 rebase
 rebase 2
+rebase 3
